@@ -8,3 +8,15 @@ Route::get('/', function () {
 Route::get('/bangfajar', function () {
     return view(view: 'punya-fajar.tes');
 });
+Route::get('/bangfajar', function () {
+    return view(view: 'punya-fajar.tes');
+});
+Route::get('/bangfajar', function () {
+    return view(view: 'punya-fajar.tes');
+});
+Route::get('/bangfajar', function () {
+    return view(view: 'punya-fajar.tes');
+});
+Route::get('/bangfajar', function () {
+    return view(view: 'punya-fajar.tes');
+});
